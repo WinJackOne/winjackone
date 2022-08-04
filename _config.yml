@@ -2,4 +2,5 @@ theme: jekyll-theme-slate
 title: "WinJackOne's Blog"
 description: "Hello Word"
 author:
+   name: "Jackli"
    email: "win0945@gmail.com"
